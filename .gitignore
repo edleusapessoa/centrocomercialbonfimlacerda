@@ -22,3 +22,6 @@ npm-debug.log*
 # Environment
 .env
 .env.local
+# Arquivos locais de imagem não utilizados no site
+assets/images/fachada-principal.png
+assets/images/fachada-principal1.webp
